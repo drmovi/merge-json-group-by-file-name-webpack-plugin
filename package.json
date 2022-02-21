@@ -1,6 +1,6 @@
 {
   "name": "merge-json-group-by-file-name-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Merge json files with the same name into one file with that name",
   "main": "index.js",
   "author": "Mustafa Darwish",

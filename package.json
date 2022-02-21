@@ -1,0 +1,13 @@
+{
+  "name": "merge-json-group-by-file-name-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Merge json files with the same name into one file with that name",
+  "main": "index.js",
+  "author": "Mustafa Darwish",
+  "license": "MIT",
+  "dependencies": {
+    "fast-glob": "^3.2.11",
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
